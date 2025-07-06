@@ -75,9 +75,21 @@ The study concluded that:
 
 ---
 
-## 🚀 How to Run
+## 📷 Preview
 
-1. Clone the repository  
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
+<table>
+  <tr>
+    <td><img src="./view sistem/0.png" width="700"/></td>
+    <td><img src="./view sistem/0 (1).png" width="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="./view sistem/0 (2).png" width="700"/></td>
+    <td><img src="./view sistem/0 (3).png" width="700"/></td>
+  </tr>
+  <tr>
+   <td><img src="./view sistem/0 (4).png" width="700"/></td>
+    <td><img src="./view sistem/0 (5).png" width="700"/></td>
+  </tr>
+</table>
+
+---
